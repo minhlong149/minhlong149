@@ -1,0 +1,6 @@
+- Hi there 👋 My name is Long Nguyen.
+- I'm currently a second-year student at the University of Information Technology.
+- I'm studying Information Technology, with a minor in Mobile Devices and Web Technology.
+- I’m learning to become a front-end web development 🌱 
+- I’m also interested in UI-UX design, mobile application and data analysis 👀
+- Reach me on [Tumblr](https://twitter.com/shiroemon149) and [Spotify](https://open.spotify.com/user/ryanpax)📫
