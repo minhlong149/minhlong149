@@ -2,5 +2,5 @@
 - I'm currently a *second-year student* at the *University of Information Technology* 🏫
 - I'm studying *Information Technology*, with a minor in *Mobile Devices* and *Web Technology* 🎒
 - I’m learning to become a *front-end web development* 🌱 
-- I’m also interested in *UI-UX design*, *mobile application* and *data analysis* 👀
-- Reach me on [Tumblr](https://shiroemon149.tumblr.com) and [Spotify](https://open.spotify.com/user/ryanpax) 📫
+- I’m also interested in *UI-UX design* and *mobile application* 👀
+- Reach me on [Tumblr](https://shiroemon149.tumblr.com), or listen to my [Spotify](https://open.spotify.com/user/ryanpax)  playlists📫
