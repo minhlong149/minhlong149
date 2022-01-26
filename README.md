@@ -3,4 +3,4 @@
 - I'm studying *Information Technology*, with a minor in *Mobile Devices* and *Web Technology* 🎒
 - I’m learning to become a *front-end web development* 🌱 
 - I’m also interested in *UI-UX design* and *mobile application* 👀
-- Reach me on [Tumblr](https://shiroemon149.tumblr.com), or listen to my [Spotify](https://open.spotify.com/user/ryanpax)  playlists📫
+- Reach me on [Tumblr](https://shiroemon149.tumblr.com), or listen to my [Spotify Playlists](https://open.spotify.com/user/ryanpax/playlists) 📫
