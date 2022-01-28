@@ -1,8 +1,7 @@
 # 💫About Me
-- Hi there 👋 My name is *Long Nguyen*.
 - I'm currently a *second-year student* at the *University of Information Technology* 🏫
 - I'm studying *Information Technology*, with a minor in *Mobile Devices* and *Web Technology* 🎒
-- I’m learning to become a *front-end web development* 🌱 
+- I’m a *front-end development*, learning to become a *Full-Stack Web Developer* 🌱 
 - I’m also interested in *UI-UX design* and *mobile application* 👀
 
 # 💻Tech Stack
