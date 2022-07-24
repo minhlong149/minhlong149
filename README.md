@@ -1,9 +1,9 @@
 ![](./banner.png)
 
-<h1 align="center">Hi there 👋, I'm Long</h1>
-<h3 align="center">I'm <s>learing to become</s> a Front-end Web Developer</h3>
+<h1 align="center">Hi there 👋, my name is Long</h1>
+<h3 align="center">I'm a Front-end Web Developer</h3>
 
-I'm currently a third-year student, studying Bachelor of Information Technology at the University of Information Technology, VNU-HCM.
+I'm currently a third-year student, taking a B.S. in Information Technology at University of Information Technology, VNU-HCM.
 
 ## 🌱 I'm currently learning...
 - ReactJS, Redux & React Native
@@ -17,4 +17,4 @@ I'm currently a third-year student, studying Bachelor of Information Technology 
 
 ## 🌐 Socials
 - Reach me on [LinkedIn](https://linkedin.com/in/longndm) 📫
-- Check out my [Spotify Playlists](https://open.spotify.com/user/ryanpax/playlists) 🎵
+- Check out my [Spotify Playlists](https://open.spotify.com/user/ryanpax) 🎵
