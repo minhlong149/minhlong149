@@ -1,11 +1,11 @@
 <h1 align="center">Xin chào <img src="./assets/waving.gif" width="30px" alt="waving">, My name is Long</h1>
 
-<img align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhlong149&theme=dracula&hide_border=true&langs_count=10&layout=compact&size_weight=0.5&count_weight=0.5"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhlong149&theme=dracula&hide_border=true&langs_count=10&layout=compact&size_weight=0.5&count_weight=0.5" alt="Most Used Languages" align="right"/>
 
 I'm an Aspiring Web Developer pursuing my B.S. degree at the University of Information Technology, VNU-HCM.
 
 - :telescope: I enjoy working with:
-  - **Languages:** JavaScript/TypeScript, Sass/SCSS, Java, C#, SQL.
+  - **Languages:** JavaScript/TypeScript, Sass/SCSS, Java, SQL.
   - **Technologies:** React, Node.js/Express, Jest, Tailwind CSS, Spring Boot.
 - :seedling: I’m want to learn about containers & CI/CD.
 - :eyes: I'm also interested in Blockchain and Web3 Development.
@@ -19,17 +19,19 @@ I'm an Aspiring Web Developer pursuing my B.S. degree at the University of Infor
 - [minhlong149/calculator-app](https://github.com/minhlong149/calculator-app) - Calculator app with dynamic UI and intuitive UX that supported basic algorithmic calculations.
 
 <details>
-    <summary><strong>Stuff I made at university :sparkles:</strong></summary>
+    <summary><strong>Cool stuff I made at university :sparkles:</strong></summary>
     <ul>
-      <li><a href="https://github.com/minhlong149/auth-blog-client">minhlong149/auth-blog-client</a> - Illustrated how <code>JWT</code> is used in web apps for a User Authentication seminar. Built with <code>React</code>, <code>Tailwind CSS</code> and <code>Vite</code>. The code that generates and validates the tokens can be found at <a href="https://github.com/Norman-Tran/JWT_authen/tree/master">Norman-Tran/JWT_authen</a>.</li>
-      <li><a href="https://github.com/minhlong149/timetable-app">minhlong149/timetable-app</a> - Coordinated a 3-member team to build a <code>Xamarin</code> cross-platform mobile app to help students manage their class schedules and assignments. Used <code>ASP.NET Web APIs</code> integrated with <code>SQL Server</code> for data storage.</li>
-      <li><a href="https://github.com/minhlong149/wordle">minhlong149/wordle</a> - Collaborated with a team of seven to clone a <a href="https://www.nytimes.com/games/wordle/index.html">Wordle</a> game using CSS & Vanilla JavaScript.</li>
-      <li><a href="https://github.com/minhlong149/fetch-api">minhlong149/fetch-api</a> - Demonstrated how Fetch API works with <a href="https://imgflip.com/api">Imgflip API</a> for an Asynchronous JavaScript seminar.</li>
+      <li><a href="https://github.com/minhlong149/tindin-server">minhlong149/tindin-server</a> - Developed a job portal app with a personalized jobs recommendations system in team of 4,  using <code>Spring Boot</code>, <code>PostgreSQL</code> & <code>Docker</code>. View the front-end app built with <code>React</code> & <code>MUI</code> at <a href="https://github.com/minhlong149/tindin-client">minhlong149/tindin-client</a>.</li>
+      <li><a href="https://github.com/minhlong149/social-media-client">minhlong149/social-media-client</a> - Worked in team of 7 to deliver a <code>MERN</code>-stack social media app, added real-time notifications with <code>Socket.io</code>, stored and retrieved user-uploaded images to <code>AWS S3</code>. Checkout <a href="https://github.com/minhlong149/social-media-server">minhlong149/social-media-server</a> for more.</li>
+      <li><a href="https://github.com/minhlong149/auth-blog-client">minhlong149/auth-blog-client</a> - Illustrated how <code>JWT</code> is used in web apps for a <i>User Authentication Seminar</i>. Built with <code>React</code>, <code>Tailwind CSS</code> and <code>Vite</code>. The code that generates and validates the tokens can be found at <a href="https://github.com/Norman-Tran/JWT_authen/tree/master">norman-tran/jwt_authen</a>.</li>
+      <li><a href="https://github.com/minhlong149/timetable-app">minhlong149/timetable-app</a> - Coordinated a 3-member team to build a <code>Xamarin</code> cross-platform mobile app to help students manage their class schedules and assignments. Used <code>ASP.NET Web APIs</code> integrated with <code>SQL Server</code> for <a href="https://github.com/minhlong149/timetable-api">data storage</a>.</li>
+      <li><a href="https://github.com/minhlong149/wordle">minhlong149/wordle</a> - Collaborated with a team of seven to clone a <a href="https://www.nytimes.com/games/wordle/index.html">Wordle</a> game using CSS & JavaScript.</li>
+      <li><a href="https://github.com/minhlong149/fetch-api">minhlong149/fetch-api</a> - Demonstrated how Fetch API works with <a href="https://imgflip.com/api">Imgflip API</a> for an <i>Asynchronous JavaScript Seminar</i>.</li>
       <li><a href="https://github.com/minhlong149/DangKyHocPhan">minhlong149/DangKyHocPhan</a> - Collaborated with a group of five in 12 weeks to compile detailed design specs and develop <code>WinForms C#</code> application to help students manage their course registration & tuition fees. Used <code>SQL Server</code> for data storage.</li>
     </ul>
 </details>
 
 ## :globe_with_meridians: Connect
 
-- :mailbox: Reach me on [LinkedIn](https://linkedin.com/in/longndm)
+- :mailbox: Reach out to me on [LinkedIn](https://linkedin.com/in/longndm)
 - :musical_note: Listen to my playlists on [Spotify](https://open.spotify.com/user/ryanpax)
